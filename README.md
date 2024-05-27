@@ -7,7 +7,7 @@
 
 ## About me
 
-Nothing much to tell. I made the BRDB.
+Nothing much to tell. I do Discord bots like the BRDB.
 
 Some stuff i use:
  | Python3 | JS | nodejs | Git | █████ OS |
