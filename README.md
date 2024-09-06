@@ -10,9 +10,9 @@
 Nothing much to tell. I do Discord bots like the BRDB.
 
 Some stuff i use:
- | Python3 | JS | nodejs | Git | █████ OS |
- |----------|-----|----------|----------|----------|
- |  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python"  alt="Python" width="75" height="75"/> |  <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C"  alt="C" width="75" height="75"/> |<img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="nodejs" alt="NodeJS" width="75" height="75"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="75" height="75"/> | <img src="https://github-production-user-asset-6210df.s3.amazonaws.com/127955755/334044755-0675962c-8901-4739-a6a6-de96242c277a.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20240527%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20240527T092230Z&X-Amz-Expires=300&X-Amz-Signature=916a83e1c40ee02980c80b732b9cde63d81768bb73e241d2bc70cfaa5f4b4897&X-Amz-SignedHeaders=host&actor_id=127955755&key_id=0&repo_id=806420494" title="os" alt="os" width="80" height="80"/> |
+ | Python3 | JS | nodejs | Git |
+ |----------|-----|----------|----------|
+ |  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python"  alt="Python" width="75" height="75"/> |  <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C"  alt="C" width="75" height="75"/> |<img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="nodejs" alt="NodeJS" width="75" height="75"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="75" height="75"/> |
 
 ## Stats
 <p align="center">
