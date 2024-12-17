@@ -1,7 +1,7 @@
 # Profile
 
 <p align="center">
- <a href=""><img width="1000" src="https://github.com/Leshy-sgwc/Leshy-sgwc/blob/output/github-contribution-grid-snake-dark.svg" alt="snake"/></a>
+ <a href=""><img width="1000" src="profile-3d-contrib/profile-night-rainbow.svg" alt="snake"/></a>
 </p>
 
 ![Trophy](https://github-profile-trophy.vercel.app/?username=Leshy-sgwc&no-frame=true&no-bg=true&theme=discord&column=-1)
