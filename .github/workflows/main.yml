@@ -1,9 +1,22 @@
 name: generate animation
 
 on:
-  # run automatically every 24 hours
   schedule:
-    - cron: "0 */24 * * *" 
+    # Monday, Tuesday, Thursday
+    - cron: "0 8,9,10,11,12,13,14,15,16 * * 1,2,4"
+    - cron: "30 8,9,10,11,12,13,14,15,16 * * 1,2,4"
+    - cron: "15 8,9,10,11,12,13,14,15,16 * * 1,2,4"
+    - cron: "45 8,9,10,11,12,13,14,15,16 * * 1,2,4"
+    # Wednesday
+    - cron: "0 8,9,10,11,12,13,14,15 * * 3"
+    - cron: "30 8,9,10,11,12,13,14,15 * * 3"
+    - cron: "15 8,9,10,11,12,13,14,15 * * 3"
+    - cron: "45 8,9,10,11,12,13,14,15 * * 3"
+    # Friday
+    - cron: "0 8,9,10,11,12,13 * * 5"
+    - cron: "30 8,9,10,11,12,13 * * 5"
+    - cron: "15 8,9,10,11,12,13 * * 5"
+    - cron: "45 8,9,10,11,12,13 * * 5"
   
   # allows to manually run the job at any time
   workflow_dispatch:
