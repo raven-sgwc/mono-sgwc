@@ -21,7 +21,9 @@ on:
     - cron: "0 12,18,22 * * 6"
     # Sunday
     - cron: "0 12,18,22 * * 0"
-    
+  push:
+    branches:
+      - main
   workflow_dispatch:
 
 jobs:
