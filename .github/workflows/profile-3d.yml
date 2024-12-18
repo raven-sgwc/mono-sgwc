@@ -29,20 +29,6 @@ on:
       - main
 
 jobs:
-  delete:
-    runs-on: ubuntu-latest
-    name: delete-github-profile-3d-contrib
-    steps:
-      - uses: actions/checkout@v2
-      - name: Delete
-        run: |
-          rm -rf .github/workflows/profile-3d.yml
-          git config user.name github-actions
-          git config user.email
-
-
-
-          
   build:
     runs-on: ubuntu-latest
     name: generate-github-profile-3d-contrib
