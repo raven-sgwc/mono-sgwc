@@ -3,7 +3,7 @@ name: generate animation
 on:
   schedule:
     # Monday, Tuesday, Thursday
-    - cron: "0 12 * * *"
+    - cron: "0 10,12,14,16 * * *"
     # - cron: "30 8,9,10,11,12,13,14,15,16 * * 1,2,4"
     # - cron: "15 8,9,10,11,12,13,14,15,16 * * 1,2,4"
     # - cron: "45 8,9,10,11,12,13,14,15,16 * * 1,2,4"
